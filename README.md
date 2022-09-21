@@ -1,5 +1,5 @@
  SV RẺ RÁCH THÍCH CODE MẶC DÙ ĐÉO BIẾT CODE LÀ CON CẶC GÌ 
-
+[![](https://visitcount.itsvg.in/api?id=Nevwex&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # Béo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
