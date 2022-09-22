@@ -1,5 +1,3 @@
-<img src="https://files.catbox.moe/8u931d.jpg" width="512px"/>
-
 SV RẺ RÁCH THÍCH CODE MẶC DÙ ĐÉO BIẾT CODE LÀ CON CẶC GÌ 
 
 
