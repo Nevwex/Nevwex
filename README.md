@@ -8,3 +8,5 @@ SV RẺ RÁCH THÍCH CODE MẶC DÙ ĐÉO BIẾT CODE LÀ CON CẶC GÌ
 [![Nevwex](https://github-readme-stats.vercel.app/api?username=Nevwex&theme=dark&icon_color=84628F&show_icons=true)](https://github.com/Nevwex)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevwex&layout=compact&theme=dark)](https://github.com/Nevwex)
+
+![snake gif](https://github.com/Nevwex/Nevwex/blob/output/github-contribution-grid-snake.gif)
